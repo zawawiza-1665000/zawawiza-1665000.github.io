@@ -1,0 +1,26 @@
+body {
+	background: #0661DC  
+}
+
+.image {
+	display: inline-block;
+    position:relative;
+    text-align:center;
+    float: left;
+}
+
+.text {
+    left: 0;
+    position:absolute;
+    top: 50%;
+    width: 100%;
+}
+
+.text2 {
+	text-align: center;
+	border-style: solid;
+	border-top-left-radius:2em;
+	border-top-right-radius:2em;
+	border-bottom-left-radius:2em;
+	border-bottom-right-radius:2em;
+}
